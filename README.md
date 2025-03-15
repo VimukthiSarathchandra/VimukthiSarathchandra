@@ -40,7 +40,7 @@
 <a href="https://linkedin.com/in/vimukthi-sarathchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimukthi-sarathchandra" height="40" width="40" /></a>
 <a href="https://fb.com/vimukthisarathchandr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vimukthisarathchandr" height="40" width="40" /></a>
 <a href="https://instagram.com/vimukthi_sarathchandra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vimukthi_sarathchandra_" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/vimukthi_sarathchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vimukthi_sarathchandra" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@Vimukthi_Sarathchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vimukthi_sarathchandra" height="40" width="40" /></a>
 <a href="https://discord.gg/vimukthi_." target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" alt="vimukthi_." height="50" width="50" /></a>
 </p>
 
